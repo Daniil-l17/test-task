@@ -1,2 +1,3 @@
-yarn install 
+yarn install
+
 yarn dev
